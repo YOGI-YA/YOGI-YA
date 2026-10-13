@@ -1,1 +1,1 @@
-[![Alien protocol](https://raw.githubusercontent.com/ratacat/github-marquee/main/examples/alien-protocol.svg)](https://github.com/ratacat/github-marquee)
+[![3D torus](https://kpab.github.io/three-readme/assets/torus.svg)](https://kpab.github.io/three-readme/)
