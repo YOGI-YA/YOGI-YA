@@ -1,1 +1,1 @@
-[![spinning gem](https://github.com/jh3y/jh3y/raw/master/assets/gem.svg)](https://yogender.me)
+<img width="516" height="290" alt="image" src="https://github.com/user-attachments/assets/ab355453-c115-4d6a-8870-bd26db0c6849" />
