@@ -1,1 +1,1 @@
-[![3D torus](https://kpab.github.io/three-readme/assets/torus.svg)](https://kpab.github.io/three-readme/)
+[![3D Crystal](./assets/crystal.svg)](https://kpab.github.io/three-readme/)
