@@ -1,1 +1,1 @@
-![Build Ship Repeat](./assets/build-ship-repeat.svg)
+![Build Ship Repeat](./assets/skill-design.svg)
